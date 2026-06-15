@@ -8,14 +8,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: F2EAE2;
-    margin-left: 420px;
-    margin-right: 420px;
-    margin-top: 289px;
-    margin-bottom: 284px;
-
-    
-
+    background: #F2EAE2;
+    min-height: 100vh;
 }
 .container {
     display: flex;
